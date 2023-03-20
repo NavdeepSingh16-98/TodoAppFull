@@ -2,6 +2,11 @@ const User = require("../models/User");
 const bcrypt = require("bcryptjs");
 const jwt = require('jsonwebtoken');
 
+exports.apiWorking = async (req,res)=>{
+
+    res.status(200).send("api is working");
+}
+
 // sign up 
 exports.createUserController = async (req, res) => {
     try {
