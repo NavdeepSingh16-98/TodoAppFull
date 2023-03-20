@@ -19,5 +19,9 @@ connectToDb();
 app.use('/api',todoRoutes);
 app.use('/api', taskRoutes);
 app.use('/api/v1', userRoutes);
+app.get('/',async(req,res)=>{
+
+    res.send('api is working');
+})
 
 module.exports =  app;
