@@ -5,11 +5,7 @@
 ### Technology Stack used-
 > ###  HTML, CSS ,Tailwind CSS,  Javascript , React js, Node js, Express js, MongoDB
 
-<br>
 
-> Todo Application
-
-<br>
 
 ![](./assets/TodoSc.png)
 
@@ -21,7 +17,7 @@
 
 
 
-<br>
+
 [Live Link](https://navdeep-todo.netlify.app/signup)
 
 <br>
