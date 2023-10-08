@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-projects/TodoAppFull/static/css/main.97688172.css",
-    "main.js": "/portfolio-projects/TodoAppFull/static/js/main.d8651d6a.js",
-    "static/media/trash.svg": "/portfolio-projects/TodoAppFull/static/media/trash.f82d7c7235bd291200af1b0158146864.svg",
-    "index.html": "/portfolio-projects/TodoAppFull/index.html",
-    "static/media/left-arrow.svg": "/portfolio-projects/TodoAppFull/static/media/left-arrow.96f30e9405392cb6f83acb42bfff01b8.svg",
-    "static/media/add-btn.svg": "/portfolio-projects/TodoAppFull/static/media/add-btn.8f3b6c4ae690ecf40ce81a565c738cd1.svg",
-    "main.97688172.css.map": "/portfolio-projects/TodoAppFull/static/css/main.97688172.css.map",
-    "main.d8651d6a.js.map": "/portfolio-projects/TodoAppFull/static/js/main.d8651d6a.js.map"
+    "main.css": "/TodoAppFull/static/css/main.97688172.css",
+    "main.js": "/TodoAppFull/static/js/main.f94712ec.js",
+    "static/media/trash.svg": "/TodoAppFull/static/media/trash.f82d7c7235bd291200af1b0158146864.svg",
+    "static/media/left-arrow.svg": "/TodoAppFull/static/media/left-arrow.96f30e9405392cb6f83acb42bfff01b8.svg",
+    "index.html": "/TodoAppFull/index.html",
+    "static/media/add-btn.svg": "/TodoAppFull/static/media/add-btn.8f3b6c4ae690ecf40ce81a565c738cd1.svg",
+    "main.97688172.css.map": "/TodoAppFull/static/css/main.97688172.css.map",
+    "main.f94712ec.js.map": "/TodoAppFull/static/js/main.f94712ec.js.map"
   },
   "entrypoints": [
     "static/css/main.97688172.css",
-    "static/js/main.d8651d6a.js"
+    "static/js/main.f94712ec.js"
   ]
 }
